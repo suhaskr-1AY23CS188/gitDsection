@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 i how are you
 i am suhas
+=======
+hello
+suhas kr
+>>>>>>> master
