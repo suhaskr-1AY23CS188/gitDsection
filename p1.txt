@@ -1,7 +1,15 @@
 suhas kr 
 shivamogga
+<<<<<<< HEAD
 chikkamagaluru
+=======
+hiiii
+swagati
 
-hi how are you
+added new extra line
+
+>>>>>>> parent of 5cdf18f (new branch created p1.txt)
+
+
 
 new branch is created
